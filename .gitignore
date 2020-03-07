@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# don't commit target folder 
+/target/
+
 # Log file
 *.log
 
